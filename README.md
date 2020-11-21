@@ -2,7 +2,7 @@
 # Structural-Pattern-Example
 
 ## Index
-|Pattern| Git| Source |
+|Pattern| Code for print | Source |
 |--|--|--|
 | Adapter | [Code](https://github.com/NoNameoN-A/Structural-Pattern-Example/tree/main/Adapter) | [Source](https://www.geeksforgeeks.org/adapter-pattern/) |
 | Bridge | [Code](https://github.com/NoNameoN-A/Structural-Pattern-Example/tree/main/Bridge) | [Source](https://www.geeksforgeeks.org/bridge-design-pattern/) |
