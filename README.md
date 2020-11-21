@@ -1,3 +1,4 @@
+
 # Structural-Pattern-Example
 
 ## Index
@@ -13,6 +14,7 @@
 
 ## Source
 [GeeksForGeeks](https://www.geeksforgeeks.org/)
+
 [PowerPoint Consigliato](https://www.math.unipd.it/~rcardin/pdf/Design%20Pattern%20Strutturali_4x4.pdf)
 
 ## Credits
